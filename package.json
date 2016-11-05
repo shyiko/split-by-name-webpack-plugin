@@ -1,19 +1,18 @@
 {
-  "name": "split-by-name-webpack-plugin",
-  "version": "0.0.3",
-  "description": "Split a Webpack entry bundle into any number of arbitrarily defined smaller bundles",
-  "main": "index.js",
+  "name": "split-by-name-webpack2-plugin",
+  "version": "0.1.0",
+  "description": "webpack2 bundle splitter",
+  "author": "Stanley Shyiko <stanley.shyiko@gmail.com>",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/soundcloud/split-by-name-webpack-plugin"
+    "url": "https://github.com/shyiko/split-by-name-webpack2-plugin"
   },
+  "main": "index.js",
   "keywords": [
-    "webpack"
+    "webpack2"
   ],
-  "author": "SoundCloud, Nick Fisher",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/soundcloud/split-by-name-webpack-plugin/issues"
-  },
-  "homepage": "https://github.com/soundcloud/split-by-name-webpack-plugin"
+  "engines": {
+    "node": ">=6"
+  }
 }
