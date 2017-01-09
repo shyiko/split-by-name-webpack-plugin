@@ -1,4 +1,4 @@
-module.exports = class SplitByPathPlugin {
+module.exports = class SplitByNamePlugin {
   /**
    * @param buckets {Array<{name: string, regex: RegExp}>}
    */
