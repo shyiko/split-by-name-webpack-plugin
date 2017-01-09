@@ -1,6 +1,6 @@
 {
   "name": "split-by-name-webpack2-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "webpack2 bundle splitter",
   "author": "Stanley Shyiko <stanley.shyiko@gmail.com>",
   "license": "MIT",
